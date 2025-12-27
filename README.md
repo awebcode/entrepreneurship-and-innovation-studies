@@ -47,7 +47,7 @@ Getting started is simple. Follow these steps to access your study guide:
 
 2.  **Navigate to the Directory**:
     ```bash
-    cd entrepreneurship-innovation-exam-qa
+    cd entrepreneurship-and-innovation-studies
     ```
 
 3.  **Open the HTML File**:
@@ -59,7 +59,7 @@ The study guide will open in your default web browser, ready for you to begin yo
 
 ## 📸 Screenshot
 
-![Screenshot of the Q&A HTML page](https://awebcode.github.io/entrepreneurship-and-innovation-studies/)
+![Screenshot of the Q&A HTML page](entrepreneurship-and-innovation-studies.png)
 
 ## 🤝 Contributing
 
@@ -81,7 +81,7 @@ This material is intended for educational purposes as a supplement to official c
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## 👨‍💻 Created with ❤️ by [Your Name](https://github.com/awebcode)
+## 👨‍💻 Created with ❤️ by [Asikur Rahman](https://github.com/awebcode)
 
 ---
 ```
